@@ -6,6 +6,64 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>409EF721-ACB4-4FDD-956B-30F80161463F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>409EF721-ACB4-4FDD-956B-30F80161463F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844287.76452899</real>
+			<key>timeStoppedRecording</key>
+			<real>581844551.69194996</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>409EF721-ACB4-4FDD-956B-30F80161463F</string>
+		</dict>
+		<key>4BA74A05-8D3B-496B-8227-CDF816BBBAC3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4BA74A05-8D3B-496B-8227-CDF816BBBAC3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843799.97081494</real>
+			<key>timeStoppedRecording</key>
+			<real>581843845.158077</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>4BA74A05-8D3B-496B-8227-CDF816BBBAC3</string>
+		</dict>
 		<key>9B735E45-7CBE-49F8-A248-9DE4092C5AD8</key>
 		<dict>
 			<key>className</key>
@@ -34,6 +92,151 @@
 			<string>Debug WeDuYingYuan</string>
 			<key>uniqueIdentifier</key>
 			<string>9B735E45-7CBE-49F8-A248-9DE4092C5AD8</string>
+		</dict>
+		<key>9F6A3585-8503-43DC-B661-0A631362FB72</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F6A3585-8503-43DC-B661-0A631362FB72.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843686.37675798</real>
+			<key>timeStoppedRecording</key>
+			<real>581843767.562536</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>9F6A3585-8503-43DC-B661-0A631362FB72</string>
+		</dict>
+		<key>CA00BD94-7A99-4B2A-BFAB-B87C023DA825</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CA00BD94-7A99-4B2A-BFAB-B87C023DA825.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844229.891294</real>
+			<key>timeStoppedRecording</key>
+			<real>581844287.28288496</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>CA00BD94-7A99-4B2A-BFAB-B87C023DA825</string>
+		</dict>
+		<key>D2B20746-4EF7-4D81-A693-2818A9D3E323</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D2B20746-4EF7-4D81-A693-2818A9D3E323.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843768.00448596</real>
+			<key>timeStoppedRecording</key>
+			<real>581843799.63076305</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>D2B20746-4EF7-4D81-A693-2818A9D3E323</string>
+		</dict>
+		<key>EB874F26-BED6-4BC4-AF89-6E3E16F14807</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EB874F26-BED6-4BC4-AF89-6E3E16F14807.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844552.70772099</real>
+			<key>timeStoppedRecording</key>
+			<real>581845485.74934995</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>EB874F26-BED6-4BC4-AF89-6E3E16F14807</string>
+		</dict>
+		<key>F16C12AB-86BB-4640-89EC-ED1265EAA402</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F16C12AB-86BB-4640-89EC-ED1265EAA402.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843574.36057401</real>
+			<key>timeStoppedRecording</key>
+			<real>581843686.01407397</real>
+			<key>title</key>
+			<string>Debug WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>F16C12AB-86BB-4640-89EC-ED1265EAA402</string>
 		</dict>
 	</dict>
 </dict>

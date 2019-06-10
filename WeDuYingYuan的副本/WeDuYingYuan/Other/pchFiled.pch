@@ -11,5 +11,5 @@
 
 
 #import "Screen.h"
-
+#import "UIImageView+WebCache.h"
 #endif /* pchFiled_pch */

@@ -52,29 +52,6 @@
 			<key>uniqueIdentifier</key>
 			<string>3274FB16-2732-4422-9A48-0B2F3CBBC3F3</string>
 		</dict>
-		<key>3BEB4893-A79A-4B0D-B2CC-DCB2F666CF2C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>3BEB4893-A79A-4B0D-B2CC-DCB2F666CF2C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>signature</key>
-			<string>WeDuYingYuan-ggertetycmjhooduaqmyylxdozxr</string>
-			<key>timeStartedRecording</key>
-			<real>581760106.05245602</real>
-			<key>timeStoppedRecording</key>
-			<real>581760106.50401497</real>
-			<key>title</key>
-			<string>Build target WeDuYingYuan</string>
-			<key>uniqueIdentifier</key>
-			<string>3BEB4893-A79A-4B0D-B2CC-DCB2F666CF2C</string>
-		</dict>
 		<key>3C3CDC6A-1835-4CEB-8E65-F700F9BA6CA6</key>
 		<dict>
 			<key>className</key>
@@ -97,6 +74,29 @@
 			<string>Build target SVProgressHUD</string>
 			<key>uniqueIdentifier</key>
 			<string>3C3CDC6A-1835-4CEB-8E65-F700F9BA6CA6</string>
+		</dict>
+		<key>4B0D8BE0-2106-463C-8733-A81ABED36FE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>4B0D8BE0-2106-463C-8733-A81ABED36FE5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>MBProgressHUD-fxrslziaaubjmrecipywtbuhkhol</string>
+			<key>timeStartedRecording</key>
+			<real>581842994.79310095</real>
+			<key>timeStoppedRecording</key>
+			<real>581842994.80704403</real>
+			<key>title</key>
+			<string>Build target MBProgressHUD</string>
+			<key>uniqueIdentifier</key>
+			<string>4B0D8BE0-2106-463C-8733-A81ABED36FE5</string>
 		</dict>
 		<key>612E1A05-E243-44BB-9944-2DA6B8CE645E</key>
 		<dict>
@@ -121,6 +121,29 @@
 			<key>uniqueIdentifier</key>
 			<string>612E1A05-E243-44BB-9944-2DA6B8CE645E</string>
 		</dict>
+		<key>A7ADB61C-B84E-4761-B0CA-99A4AF502087</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A7ADB61C-B84E-4761-B0CA-99A4AF502087.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>signature</key>
+			<string>WeDuYingYuan-ggertetycmjhooduaqmyylxdozxr</string>
+			<key>timeStartedRecording</key>
+			<real>581845373.56229806</real>
+			<key>timeStoppedRecording</key>
+			<real>581845374.69159603</real>
+			<key>title</key>
+			<string>Build target WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>A7ADB61C-B84E-4761-B0CA-99A4AF502087</string>
+		</dict>
 		<key>DF423D39-6639-42D3-818C-DB548DF7C9F3</key>
 		<dict>
 			<key>className</key>
@@ -143,29 +166,6 @@
 			<string>Build target SDWebImage</string>
 			<key>uniqueIdentifier</key>
 			<string>DF423D39-6639-42D3-818C-DB548DF7C9F3</string>
-		</dict>
-		<key>F1FD0D22-6B36-4E72-810C-C9FD3FC2042E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
-			<key>fileName</key>
-			<string>F1FD0D22-6B36-4E72-810C-C9FD3FC2042E.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>signature</key>
-			<string>MBProgressHUD-fxrslziaaubjmrecipywtbuhkhol</string>
-			<key>timeStartedRecording</key>
-			<real>581759422.066697</real>
-			<key>timeStoppedRecording</key>
-			<real>581759422.08952606</real>
-			<key>title</key>
-			<string>Build target MBProgressHUD</string>
-			<key>uniqueIdentifier</key>
-			<string>F1FD0D22-6B36-4E72-810C-C9FD3FC2042E</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

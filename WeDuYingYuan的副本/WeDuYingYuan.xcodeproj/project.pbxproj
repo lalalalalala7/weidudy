@@ -17,6 +17,9 @@
 		3317E00322ACE948006C587D /* MineVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3317E00222ACE948006C587D /* MineVC.m */; };
 		3317E00622ACE958006C587D /* CinemaVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3317E00522ACE958006C587D /* CinemaVC.m */; };
 		3317E00822ACED99006C587D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3317E00722ACED99006C587D /* Assets.xcassets */; };
+		3317E00E22AE3755006C587D /* PZScaleCycleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3317E00B22AE3755006C587D /* PZScaleCycleView.m */; };
+		3317E00F22AE3755006C587D /* PZPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 3317E00C22AE3755006C587D /* PZPageControl.m */; };
+		3317E01222AE3831006C587D /* NSTimer+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3317E01022AE3831006C587D /* NSTimer+Addition.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +41,12 @@
 		3317E00422ACE958006C587D /* CinemaVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CinemaVC.h; sourceTree = "<group>"; };
 		3317E00522ACE958006C587D /* CinemaVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CinemaVC.m; sourceTree = "<group>"; };
 		3317E00722ACED99006C587D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3317E00A22AE3755006C587D /* PZPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PZPageControl.h; sourceTree = "<group>"; };
+		3317E00B22AE3755006C587D /* PZScaleCycleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PZScaleCycleView.m; sourceTree = "<group>"; };
+		3317E00C22AE3755006C587D /* PZPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PZPageControl.m; sourceTree = "<group>"; };
+		3317E00D22AE3755006C587D /* PZScaleCycleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PZScaleCycleView.h; sourceTree = "<group>"; };
+		3317E01022AE3831006C587D /* NSTimer+Addition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+Addition.m"; sourceTree = "<group>"; };
+		3317E01122AE3831006C587D /* NSTimer+Addition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+Addition.h"; sourceTree = "<group>"; };
 		3FD03303F45699A7751E684F /* Pods-WeDuYingYuan.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeDuYingYuan.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WeDuYingYuan/Pods-WeDuYingYuan.debug.xcconfig"; sourceTree = "<group>"; };
 		41A293D26EB96100FF825155 /* libPods-WeDuYingYuan.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeDuYingYuan.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C08EF9F9916EEF1CCECECB70 /* Pods-WeDuYingYuan.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeDuYingYuan.release.xcconfig"; path = "Pods/Target Support Files/Pods-WeDuYingYuan/Pods-WeDuYingYuan.release.xcconfig"; sourceTree = "<group>"; };
@@ -97,6 +106,7 @@
 		3317DDA322AC9A13006C587D /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				3317E00922AE3755006C587D /* PZScaleCycleView2 */,
 				3317DDA922ACA00F006C587D /* Screen.h */,
 				3317DD8B22A8AB03006C587D /* AppDelegate.h */,
 				3317DD8C22A8AB03006C587D /* AppDelegate.m */,
@@ -127,6 +137,19 @@
 				3317E00222ACE948006C587D /* MineVC.m */,
 			);
 			path = Mine;
+			sourceTree = "<group>";
+		};
+		3317E00922AE3755006C587D /* PZScaleCycleView2 */ = {
+			isa = PBXGroup;
+			children = (
+				3317E01122AE3831006C587D /* NSTimer+Addition.h */,
+				3317E01022AE3831006C587D /* NSTimer+Addition.m */,
+				3317E00A22AE3755006C587D /* PZPageControl.h */,
+				3317E00B22AE3755006C587D /* PZScaleCycleView.m */,
+				3317E00C22AE3755006C587D /* PZPageControl.m */,
+				3317E00D22AE3755006C587D /* PZScaleCycleView.h */,
+			);
+			path = PZScaleCycleView2;
 			sourceTree = "<group>";
 		};
 		7C19FE5D8D9C9B40D0DFFCAF /* Pods */ = {
@@ -267,7 +290,10 @@
 			files = (
 				3317DD9022A8AB03006C587D /* ViewController.m in Sources */,
 				3317DDA822AC9C3E006C587D /* MovieViewC.m in Sources */,
+				3317E00F22AE3755006C587D /* PZPageControl.m in Sources */,
+				3317E01222AE3831006C587D /* NSTimer+Addition.m in Sources */,
 				3317DD9B22A8AB09006C587D /* main.m in Sources */,
+				3317E00E22AE3755006C587D /* PZScaleCycleView.m in Sources */,
 				3317E00622ACE958006C587D /* CinemaVC.m in Sources */,
 				3317E00322ACE948006C587D /* MineVC.m in Sources */,
 				3317DD8D22A8AB03006C587D /* AppDelegate.m in Sources */,

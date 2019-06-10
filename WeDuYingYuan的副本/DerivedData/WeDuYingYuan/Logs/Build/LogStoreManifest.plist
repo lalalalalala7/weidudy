@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>FC54B8D8-5011-4FEC-BBE9-6701B1B8C285</key>
+		<key>0214310C-9969-47EF-B673-278006409067</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FC54B8D8-5011-4FEC-BBE9-6701B1B8C285.xcactivitylog</string>
+			<string>0214310C-9969-47EF-B673-278006409067.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,448 @@
 			<key>signature</key>
 			<string>Build WeDuYingYuan</string>
 			<key>timeStartedRecording</key>
-			<real>581760105.69919002</real>
+			<real>581843767.20603395</real>
 			<key>timeStoppedRecording</key>
-			<real>581760106.64121401</real>
+			<real>581843768.15313804</real>
 			<key>title</key>
 			<string>Build WeDuYingYuan</string>
 			<key>uniqueIdentifier</key>
-			<string>FC54B8D8-5011-4FEC-BBE9-6701B1B8C285</string>
+			<string>0214310C-9969-47EF-B673-278006409067</string>
+		</dict>
+		<key>36CF58CB-EA45-4A0B-9106-501C8740186A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36CF58CB-EA45-4A0B-9106-501C8740186A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844551.24997103</real>
+			<key>timeStoppedRecording</key>
+			<real>581844553.20964205</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>36CF58CB-EA45-4A0B-9106-501C8740186A</string>
+		</dict>
+		<key>3C8C742E-5EDA-40E5-B80D-92D65E9AC037</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C8C742E-5EDA-40E5-B80D-92D65E9AC037.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843573.52020204</real>
+			<key>timeStoppedRecording</key>
+			<real>581843574.54222405</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>3C8C742E-5EDA-40E5-B80D-92D65E9AC037</string>
+		</dict>
+		<key>47024F9B-FE64-446E-BFEC-013246F9B9E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47024F9B-FE64-446E-BFEC-013246F9B9E6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581842998.72514701</real>
+			<key>timeStoppedRecording</key>
+			<real>581842999.51451004</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>47024F9B-FE64-446E-BFEC-013246F9B9E6</string>
+		</dict>
+		<key>5EC98BC2-0C3E-4494-8D5D-54C00516322A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EC98BC2-0C3E-4494-8D5D-54C00516322A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581842954.714571</real>
+			<key>timeStoppedRecording</key>
+			<real>581842955.36779404</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>5EC98BC2-0C3E-4494-8D5D-54C00516322A</string>
+		</dict>
+		<key>770B8BEC-5628-47EB-9D61-D5655D4340AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>770B8BEC-5628-47EB-9D61-D5655D4340AB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843332.84725904</real>
+			<key>timeStoppedRecording</key>
+			<real>581843333.87980199</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>770B8BEC-5628-47EB-9D61-D5655D4340AB</string>
+		</dict>
+		<key>971CE805-F89A-4470-81D1-4BB80FB04544</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>971CE805-F89A-4470-81D1-4BB80FB04544.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843799.09631097</real>
+			<key>timeStoppedRecording</key>
+			<real>581843800.08645701</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>971CE805-F89A-4470-81D1-4BB80FB04544</string>
+		</dict>
+		<key>BE85C6AA-AF79-42EE-A09A-974B2964D16A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE85C6AA-AF79-42EE-A09A-974B2964D16A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844286.70076597</real>
+			<key>timeStoppedRecording</key>
+			<real>581844288.117558</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>BE85C6AA-AF79-42EE-A09A-974B2964D16A</string>
+		</dict>
+		<key>BFDF3010-F1A0-4622-831D-CA3725EC1A23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFDF3010-F1A0-4622-831D-CA3725EC1A23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843029.27393794</real>
+			<key>timeStoppedRecording</key>
+			<real>581843029.94730794</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>BFDF3010-F1A0-4622-831D-CA3725EC1A23</string>
+		</dict>
+		<key>C2979DAD-9E82-4B69-8BBC-88010C32194B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2979DAD-9E82-4B69-8BBC-88010C32194B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581845373.27276695</real>
+			<key>timeStoppedRecording</key>
+			<real>581845374.69185495</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>C2979DAD-9E82-4B69-8BBC-88010C32194B</string>
+		</dict>
+		<key>C38687FA-A9AC-43C1-AE0F-A2EFE4BD4075</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C38687FA-A9AC-43C1-AE0F-A2EFE4BD4075.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843226.40085006</real>
+			<key>timeStoppedRecording</key>
+			<real>581843227.35602498</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>C38687FA-A9AC-43C1-AE0F-A2EFE4BD4075</string>
+		</dict>
+		<key>C446F2A6-5417-4BBE-AF34-E36508AB01F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C446F2A6-5417-4BBE-AF34-E36508AB01F6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581841938.87805402</real>
+			<key>timeStoppedRecording</key>
+			<real>581841940.60174501</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>C446F2A6-5417-4BBE-AF34-E36508AB01F6</string>
+		</dict>
+		<key>DCA016A0-B2EA-4F1D-BD3A-8DC614F4B5B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCA016A0-B2EA-4F1D-BD3A-8DC614F4B5B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843441.33226299</real>
+			<key>timeStoppedRecording</key>
+			<real>581843442.82699299</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>DCA016A0-B2EA-4F1D-BD3A-8DC614F4B5B3</string>
+		</dict>
+		<key>E7C74514-6D77-4D3C-8BDF-CAC03873D7B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7C74514-6D77-4D3C-8BDF-CAC03873D7B5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843685.49939203</real>
+			<key>timeStoppedRecording</key>
+			<real>581843686.52454305</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>E7C74514-6D77-4D3C-8BDF-CAC03873D7B5</string>
+		</dict>
+		<key>EF764C26-ACB8-437E-B717-58912B4EA9B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF764C26-ACB8-437E-B717-58912B4EA9B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581844229.11829603</real>
+			<key>timeStoppedRecording</key>
+			<real>581844229.98612702</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>EF764C26-ACB8-437E-B717-58912B4EA9B6</string>
+		</dict>
+		<key>EFE45DC2-377B-4228-A3E8-9C9A4BC84959</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFE45DC2-377B-4228-A3E8-9C9A4BC84959.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeDuYingYuan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeDuYingYuan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build WeDuYingYuan</string>
+			<key>timeStartedRecording</key>
+			<real>581843011.44956601</real>
+			<key>timeStoppedRecording</key>
+			<real>581843012.15792406</real>
+			<key>title</key>
+			<string>Build WeDuYingYuan</string>
+			<key>uniqueIdentifier</key>
+			<string>EFE45DC2-377B-4228-A3E8-9C9A4BC84959</string>
 		</dict>
 	</dict>
 </dict>

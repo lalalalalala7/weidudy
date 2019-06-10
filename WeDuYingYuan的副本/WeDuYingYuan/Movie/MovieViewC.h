@@ -7,11 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "PZScaleCycleView.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface MovieViewC : UIViewController
 @property(nonatomic,strong)UIScrollView *mainSC;
+@property(nonatomic,strong)PZScaleCycleView *pz;
 @end
 
 NS_ASSUME_NONNULL_END

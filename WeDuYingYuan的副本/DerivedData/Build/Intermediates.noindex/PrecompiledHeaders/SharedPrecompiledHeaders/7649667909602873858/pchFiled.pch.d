@@ -1079,4 +1079,11 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPencilInteraction.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/DocumentManager.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentBrowserViewController.h \
-  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentBrowserAction.h
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDocumentBrowserAction.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/UIImageView+WebCache.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDWebImageCompat.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDWebImageManager.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDWebImageOperation.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDWebImageDownloader.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDImageCache.h \
+  /Users/a1111/Desktop/WeDuYingYuan/Pods/Headers/Public/SDWebImage/SDImageCacheConfig.h
