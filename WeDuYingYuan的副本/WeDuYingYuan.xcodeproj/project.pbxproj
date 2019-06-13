@@ -64,6 +64,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		24A1AEB422AF3BE5009E4E6B /* C */ = {
+			isa = PBXGroup;
+			children = (
+				3317E00422ACE958006C587D /* CinemaVC.h */,
+				3317E00522ACE958006C587D /* CinemaVC.m */,
+			);
+			path = C;
+			sourceTree = "<group>";
+		};
+		24A1AEB522AF3BEC009E4E6B /* V */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = V;
+			sourceTree = "<group>";
+		};
+		24A1AEB622AF3BF1009E4E6B /* M */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = M;
+			sourceTree = "<group>";
+		};
 		3317DD7F22A8AB03006C587D = {
 			isa = PBXGroup;
 			children = (
@@ -124,8 +147,9 @@
 		3317DDA422AC9B0A006C587D /* Cinema */ = {
 			isa = PBXGroup;
 			children = (
-				3317E00422ACE958006C587D /* CinemaVC.h */,
-				3317E00522ACE958006C587D /* CinemaVC.m */,
+				24A1AEB622AF3BF1009E4E6B /* M */,
+				24A1AEB522AF3BEC009E4E6B /* V */,
+				24A1AEB422AF3BE5009E4E6B /* C */,
 			);
 			path = Cinema;
 			sourceTree = "<group>";
@@ -442,8 +466,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/a1111/Desktop/WeDuYingYuan/WeDuYingYuan/Other/pchFiled.pch;
+				GCC_PREFIX_HEADER = "/Users/666yudada666/Desktop/weidudy/WeDuYingYuan的副本/WeDuYingYuan/Other/pchFiled.pch";
 				INFOPLIST_FILE = WeDuYingYuan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,8 +487,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/a1111/Desktop/WeDuYingYuan/WeDuYingYuan/Other/pchFiled.pch;
+				GCC_PREFIX_HEADER = "/Users/666yudada666/Desktop/weidudy/WeDuYingYuan的副本/WeDuYingYuan/Other/pchFiled.pch";
 				INFOPLIST_FILE = WeDuYingYuan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
